@@ -1,1 +1,1 @@
-This is for merge conflict test
+Hello world! This is git practice. MERGE CONFLICT
