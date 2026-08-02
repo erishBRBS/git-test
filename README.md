@@ -1,1 +1,1 @@
-Hello world! This is git practice.
+Hello world! This is git practice. MERGE CONFLICT
